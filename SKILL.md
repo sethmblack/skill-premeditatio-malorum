@@ -4,7 +4,7 @@ description: Build resilience and reduce anxiety by deliberately visualizing pot
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4728
+  version: 1.0.4729
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - premeditatio-malorum-(negative-visualization)
